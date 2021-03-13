@@ -5,7 +5,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import 'bootstrap/dist/css/bootstrap.css';
 // Coloque todos os outros imports abaixo assim que CSS dos 
-// seus componentes tomar precedencia sobre os estilos padrão.
+// seus componentes tomar precedencia sobre os estilos padrï¿½o.
 
 
 ReactDOM.render( <
